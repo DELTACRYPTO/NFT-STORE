@@ -1,5 +1,4 @@
-# NFT-STORE ON BASE // CONTRACT ADDRESS 0xaAA06e45d50dcDfEA3C3d7687cDf3ba9e9d67e55
-
+# NFT-STORE ON BASE
 Objectifs du contrat NFTStore :
 
 ✅ Deux actions utilisateur factices :
@@ -18,9 +17,9 @@ Objectifs du contrat NFTStore :
 
 ⚡ Frais de gas minimisés avec des transferts conformes à la norme ERC-721, idéaux pour des déploiements à petit budget.
    
-   /////////////
-   
-NFTStore Contract Objective : 
+   /////////////  // CONTRACT ADDRESS 0xaAA06e45d50dcDfEA3C3d7687cDf3ba9e9d67e55
+
+   NFTStore Contract Objective : 
 
 ✅ Two distinct fictitious user actions:
 
